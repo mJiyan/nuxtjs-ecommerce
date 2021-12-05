@@ -1,7 +1,7 @@
 
 # Nuxt.js E-Commerce Application - Adjust Code Challenge
 
-This is a basic e-commerce application and it is created for the Adjust company in order to show coding skills. Application is built using Nuxt.js (framework that builds server-rendered Vue.js).
+This is a basic e-commerce application and it is created for the Adjust company in order to show coding skills. Application is built using Nuxt.js (the framework that doing server-side-rendering for Vue.js).
 
 Listing, searching, and filtering the listed products.
 
@@ -28,7 +28,7 @@ A short overview of the project
 git clone https://github.com/mJiyan/nuxtjs-ecommerce.git
 cd nuxtjs-ecommerce-master
 yarn
-yarn start
+yarn dev
 ```
 
 
